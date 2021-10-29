@@ -9,6 +9,3 @@ The analysis contains following parts:
 2. Feature wrangling
 3. Label Indexing
 4. Prediciton using random forest regression model
-
-...
-I am testing how this branch will work.
